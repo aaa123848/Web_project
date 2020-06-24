@@ -2,7 +2,7 @@ Javascript 專案，以Django 架起locel server。 本專案是一個便條籤�
 請根據以下步驟安裝環境、運作local server，並連結進入，謝謝。
 
 
-1. pip -r requirements.txt
+1. pip install -r requirements.txt
 
 2. python manage.py runserver
 
