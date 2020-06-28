@@ -15,5 +15,16 @@
 
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/bls_1.PNG)
 
-![bookList](https://3939numberone.imgur.com/all/?third_party=1)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/bls_2.PNG)
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_1.PNG)
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_2.PNG)
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_3.PNG)
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_4.PNG)
+
+
+
 
