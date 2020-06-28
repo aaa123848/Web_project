@@ -16,10 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from magicNote import views as magicNoteViews
+from bookList import views as bookListViews
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('magicnote/', magicNoteViews.get_index),
+    path('booklist/', bookListViews.get_index),
 ]
 
