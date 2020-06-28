@@ -13,9 +13,9 @@
 
 3. 連結個專案 url
 
-## Book List url=> http://127.0.0.1:8000/booklist/ :
+## Book List url=> 127.0.0.1:8000/booklist/ :
 
-###左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料
+**左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料**
 
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_1.PNG)
 
