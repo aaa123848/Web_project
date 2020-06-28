@@ -8,6 +8,7 @@ class Book{
 
 class UI{
     static displayBooks(){
+        if (books===[]){return false}
         books.forEach((book)=>{
             UI.addBookToList(book)
         })
@@ -30,11 +31,11 @@ class UI{
         }
     }
     static showAlert(msg, className){
-        let div = document.createElement('div')
+        const div = document.createElement('div')
         div.className = `alert alert-${className}`
         div.innerHTML = msg
-        let container = document.querySelector('.col-sm-4')
-        let form = document.querySelector('#book-form')
+        const container = document.querySelector('.col-sm-4')
+        const form = document.querySelector('#book-form')
         container.insertBefore(div, form)
         setTimeout(()=>{
             document.querySelector('.alert').remove()
@@ -49,11 +50,13 @@ class UI{
 
 class Store{
     static getBook(){
-        if (localStorage.getItem('books')===undefined){
+        let books;
+        if (!localStorage.getItem('books')){
             books = []
         }else{
             books = JSON.parse(localStorage.getItem('books'))
         }
+        return books
     }
     static addBook(book){
         books.push(book)
@@ -64,12 +67,12 @@ class Store{
             if(book.isbn === isbn){
                 books.splice(index, 1)
             }
+        localStorage.setItem('books', JSON.stringify(books))
         })
     }
 }
 
-let books;
-Store.getBook();
+const books = Store.getBook()
 document.addEventListener('DOMContentLoaded', UI.displayBooks);
 document.querySelector('#sendButton').addEventListener('click', (e)=>{
     e.preventDefault()
@@ -77,7 +80,7 @@ document.querySelector('#sendButton').addEventListener('click', (e)=>{
     const author = document.querySelector('#author').value
     const isbn = document.querySelector('#isbn').value
     if (title===''||author===''||isbn===''){
-       UI. showAlert('Please fill all form, Thank you !!', 'danger')
+       UI.showAlert('Please fill all form, Thank you !!', 'danger')
         return false
     }
     const book = new Book(title, author, isbn)
