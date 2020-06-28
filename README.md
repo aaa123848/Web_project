@@ -13,17 +13,17 @@
 
 3. http://127.0.0.1/magicnote
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/bls_1.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/bls_1.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/bls_2.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/bls_2.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_1.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/mn_1.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_2.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/mn_2.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_3.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/mn_3.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/mn_4.PNG)
+![bookList](https://github.com/aaa123848/Web_project/tree/master/img/mn_4.PNG)
 
 
 
