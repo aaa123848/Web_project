@@ -17,9 +17,11 @@
 
 **左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料**
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_1.PNG)
+**每筆資料都會帶一個刪除按鈕**
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_2.PNG)
+**資料儲存於local storage 所以重新request不會導致資料消失**
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_1.PNG)
 
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_3.PNG)
 
