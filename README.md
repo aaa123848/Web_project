@@ -17,7 +17,7 @@
 
 3. 連結個專案 url
 
-## 0. 地區天氣查詢 url=> 有外部連結的api key，因此不提供源碼 :
+## 0. 地區天氣查詢 https://aaa123848.github.io/weather/:
 
 **連結外部api, http://api.openweathermap.org 獲得即時地區天氣訊息**
 
