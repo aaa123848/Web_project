@@ -16,9 +16,13 @@
 3. 連結個專案 url
 
 ## 0. 地區天氣查詢 url=> 有外部連結的api key，因此不提供源碼 :
+
 **連結外部api, http://api.openweathermap.org 獲得即時地區天氣訊息**
+
 **查詢欄送出地區， 立即回饋及時天氣狀況**
+
 **圖片隨即時天氣狀況改變**
+
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/cloud.PNG)
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/rain.PNG)
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/normal.PNG)
