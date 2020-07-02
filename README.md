@@ -29,7 +29,7 @@
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/rain.PNG)
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/normal.PNG)
 
-## 1. 圖書儲存系統 url=> https://aaa123848.github.io/weather/ 127.0.0.1:8000/booklist/ :
+## 1. 圖書儲存系統 url=> https://aaa123848.github.io/booklist/ 127.0.0.1:8000/booklist/ :
 
 **左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料**
 
@@ -41,7 +41,7 @@
 
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_3.PNG)
 
-## 2. 便條籤紀錄器(暫不支援手機) url=> https://aaa123848.github.io/weather/ 127.0.0.1:8000/magicnote/ :
+## 2. 便條籤紀錄器(暫不支援手機) url=> https://aaa123848.github.io/magicNote/ 127.0.0.1:8000/magicnote/ :
 
 **新增便利貼到 main board**
 
