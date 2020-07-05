@@ -2,13 +2,13 @@
 
 網頁專案，以Django 架起locel server，主要功能由javascript建構。 本專案包含:
 
-**地區天期即時查詢** : fetch外部API，獲得即時資訊並更改整體版面。
+**0. 地區天期即時查詢** : fetch外部API，獲得即時資訊並更改整體版面。
 
-**備忘錄(Vue.js)** : 新增、刪除、註記備忘錄。
+**1. 備忘錄(Vue.js)** : 新增、刪除、註記備忘錄。
 
-**便條籤紀錄器** : 提供新增、刪除便條籤服務。並支援拖曳移動、拖曳改變順序、拖曳刪除。
+**2. 便條籤紀錄器** : 提供新增、刪除便條籤服務。並支援拖曳移動、拖曳改變順序、拖曳刪除。
 
-**圖書儲存系統** : 將圖書資訊做成表格，包含新增、刪除功能。
+**3. 圖書儲存系統** : 將圖書資訊做成表格，包含新增、刪除功能。
 
 
 請根據以下步驟安裝環境、運作local server，並連結進入，謝謝。
@@ -40,9 +40,9 @@
 
 **備忘錄刪除按鈕**
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listpp1.PNG)
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listpp2.PNG)
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listpp3.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listapp1.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listapp2.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/listapp3.PNG)
 
 
 ## 2. 便條籤紀錄器(暫不支援手機) url=> https://aaa123848.github.io/magicNote/ ; 127.0.0.1:8000/magicnote/ :
