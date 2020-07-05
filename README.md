@@ -29,17 +29,18 @@
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/rain.PNG)
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/normal.PNG)
 
-## 1. 圖書儲存系統 url=> https://aaa123848.github.io/booklist/ ; 127.0.0.1:8000/booklist/ :
+## 1. Vue.js Project 備忘錄 https://aaa123848.github.io/listApp/:
 
-**左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料**
+**正上方新增備忘錄方塊**
 
-**每筆資料都會帶一個刪除按鈕**
+**每個備忘錄方塊有checkbox, 確認後備忘錄換色**
 
-**資料儲存於local storage 所以重新request不會導致資料消失**
+**備忘錄刪除按鈕**
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_1.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/applist1.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/applist2.PNG)
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/applist3.PNG)
 
-![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_3.PNG)
 
 ## 2. 便條籤紀錄器(暫不支援手機) url=> https://aaa123848.github.io/magicNote/ ; 127.0.0.1:8000/magicnote/ :
 
@@ -58,6 +59,18 @@
 **將main board的便利貼拖入垃圾桶可做刪除動作**
 
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/mn_4.PNG)
+
+## 1. 圖書儲存系統 url=> https://aaa123848.github.io/booklist/ ; 127.0.0.1:8000/booklist/ :
+
+**左邊欄位填寫新增資料，右邊欄位顯示已儲存的書籍資料**
+
+**每筆資料都會帶一個刪除按鈕**
+
+**資料儲存於local storage 所以重新request不會導致資料消失**
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_1.PNG)
+
+![bookList](https://github.com/aaa123848/Web_project/blob/master/img/bls_3.PNG)
 
 
 
