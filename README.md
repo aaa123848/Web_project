@@ -20,7 +20,7 @@
 
 3. 連結個專案 url
 
-## 0. 地區天氣查詢 https://aaa123848.github.io/weather/:
+## 0. 地區天氣查詢(Vue.js Project ) https://aaa123848.github.io/weather/:
 
 **連結外部api, http://api.openweathermap.org 獲得即時地區天氣訊息**
 
@@ -32,7 +32,7 @@
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/rain.PNG)
 ![bookList](https://github.com/aaa123848/Web_project/blob/master/img/normal.PNG)
 
-## 1. Vue.js Project 備忘錄 https://aaa123848.github.io/listApp/:
+## 1. 備忘錄(Vue.js Project ) https://aaa123848.github.io/listApp/:
 
 **正上方新增備忘錄方塊**
 
